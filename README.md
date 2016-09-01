@@ -1,2 +1,2 @@
 # libft
-My Library
+My C Library
