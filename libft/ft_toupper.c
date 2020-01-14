@@ -19,8 +19,5 @@ char	ft_toupper(char c)
 		c = c - 32;
 		return (c);
 	}
-	else
-	{
-		return (0);
-	}
+	return (c);
 }
